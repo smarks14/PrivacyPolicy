@@ -1,3 +1,5 @@
+**Chrome Extension Privacy Policy**
+
 July 27, 2026
 
 I respect and value your privacy. This Privacy Policy describes how I handle and protect your personal information in relation to your use of my Google Chrome extension(s).
